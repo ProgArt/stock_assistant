@@ -21,4 +21,8 @@ samples, guidance on mobile development, and a full API reference.
 3.  flutter build apk
 
 
-ps: Õâ¸öÏîÄ¿ÊÇÓÉCursorÉú³É£¬ÓÃÊ±²»µ½3Ğ¡Ê±£¬ÖØ¸´Éú³ÉºÃ¼¸´Î£¬È»ºó......ĞŞ¸Ä´íÎóºÄ·ÑÁËÁ½¸öÍíÉÏ£¬
+ps: è¿™ä¸ªé¡¹ç›®æ˜¯ç”±Cursorç”Ÿæˆï¼Œç”¨æ—¶ä¸åˆ°3å°æ—¶ï¼Œé‡å¤ç”Ÿæˆå¥½å‡ æ¬¡ï¼Œç„¶å......ä¿®æ”¹é”™è¯¯è€—è´¹äº†ä¸¤ä¸ªæ™šä¸Šï¼Œ
+
+![è¡Œæƒ…](assets/images/Screenshot_1746018900.png "å¸‚åœºè¡Œæƒ…")
+
+![èµ„è®¯](assets/images/Screenshot_1746018893.png "å®æ—¶èµ„è®¯")
